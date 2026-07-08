@@ -209,7 +209,7 @@ nakelatech.local
 
 **Goal:** Build a logical, scalable identity structure that mirrors a real business.
 
-🎬 [Watch Phase 2 – Creating AD Users and Group Access](https://www.loom.com/share/070356146d4b49edb15960b7d9e26ca8)
+🎬 [Watch Phase 2 – Creating AD Users and Group Access](https://www.loom.com/share/070356146d4b49edb15960b7d9e26ca8)PT2. (https://www.loom.com/share/de4b191822534ea69cff925771b6d8f7)
 
 ### Steps Performed
 
