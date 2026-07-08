@@ -58,7 +58,7 @@ Full Loom recordings for each phase of the lab:
 | Phase | Topic | Link |
 |---|---|---|
 | Phase 1 | Installing AD, GPMC, and DC Setup | [▶ Watch on Loom](https://www.loom.com/share/4fd9795a975d40b291ecba41ae879f71) |
-| Phase 2 | Creating AD Users and Group Access | [▶ Watch on Loom](https://www.loom.com/share/070356146d4b49edb15960b7d9e26ca8) 
+| Phase 2 | Creating AD Users and Group Access | [▶ Watch on Loom](https://www.loom.com/share/a374e904d7e04b0fb6cba868cd9df2b1) 
 |Phase 2 (pt.2) | Continuation of DC installation, creating users and security groups | [▶ Watch on Loom](https://www.loom.com/share/https://www.loom.com/share/de4b191822534ea69cff925771b6d8f7)
 | Phase 3 | Implementing GPOs for AD Security Policies | [▶ Watch on Loom](https://www.loom.com/share/d568818d41ff4afeb17a5fc7b32b1e1d) |
 | Phase 4 | Joining a Domain and Applying GPO | [▶ Watch on Loom](https://www.loom.com/share/473add193cb44b6e909a01682a7a0786) |
