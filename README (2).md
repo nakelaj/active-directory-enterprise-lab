@@ -325,19 +325,22 @@ gpresult /r
 ![nslookup Result](screenshots/phase4/03-nslookup.png)
 
 ### nltest Result
-![nltest Result](screenshots/phase4/04-nltest.png)
+![nltest Secure Channel Query](screenshots/phase4/04-nltest-scquery.png)
+
+### nltest (DC Discovery)
+![nltest DC Discovery](screenshots/phase4/05-nltest-dsgetdc.png)
 
 ### Domain Join Success
-![Domain Join Success](screenshots/phase4/05-domain-join-success.png)
+![Domain Join Success](screenshots/phase4/06-domain-join-success.png)
 
 ### Workstations OU
-![Workstations OU](screenshots/phase4/06-workstations-ou.png)
+![Workstations OU](screenshots/phase4/07-workstations-ou.png)
 
 ### gpupdate
-![gpupdate](screenshots/phase4/07-gpupdate.png)
+![gpupdate](screenshots/phase4/08-gpupdate.png)
 
 ### gpresult
-![gpresult](screenshots/phase4/08-gpresult.png)
+![gpresult](screenshots/phase4/09-gpresult.png)
 
 ---
 
