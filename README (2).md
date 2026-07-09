@@ -442,14 +442,15 @@ active-directory-enterprise-lab/
     │   ├── 03-password-settings.png
     │   └── 04-usb-restrictions.png
     └── phase4/
-        ├── 01-ws01-deployment.png
+       ├── 01-ws01-deployment.png
         ├── 02-dns-configuration.png
         ├── 03-nslookup.png
-        ├── 04-nltest.png
-        ├── 05-domain-join-success.png
-        ├── 06-workstations-ou.png
-        ├── 07-gpupdate.png
-        └── 08-gpresult.png
+        ├── 04-nltest-scquery.png
+        ├── 05-nltest-dsgetdc.png
+        ├── 06-domain-join-success.png
+        ├── 07-workstations-ou.png
+        ├── 08-gpupdate.png
+        └── 09-gpresult.png
 ```
 
 ---
