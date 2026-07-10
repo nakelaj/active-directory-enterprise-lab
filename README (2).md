@@ -209,7 +209,8 @@ nakelatech.local
 
 **Goal:** Build a logical, scalable identity structure that mirrors a real business.
 
-🎬 [Watch Phase 2 – Creating AD Users and Group Access](https://www.loom.com/share/070356146d4b49edb15960b7d9e26ca8) | [PHASE 2 PT 2 - Creating AD Users and Assigning Group Accesss▶ Watch on Loom](https://www.loom.com/share/de4b191822534ea69cff925771b6d8f7)
+🎬 | Phase 2 | Continuation of DC installation... | [▶ Watch on Loom](https://www.loom.com/share/070356146d4b49edb15960b7d9e26ca8) |
+| Phase 2 (pt.2) | Phase 2 (pt.2) - Creating AD users and assigning group access | [▶ Watch on Loom](https://www.loom.com/share/de4b191822534ea69cff925771b6d8f7) |
 
 ### Steps Performed
 
@@ -446,7 +447,7 @@ active-directory-enterprise-lab/
     │   ├── 03-password-settings.png
     │   └── 04-usb-restrictions.png
     └── phase4/
-       ├── 01-ws01-deployment.png
+        ├── 01-ws01-deployment.png
         ├── 02-dns-configuration.png
         ├── 03-nslookup.png
         ├── 04-nltest-scquery.png
