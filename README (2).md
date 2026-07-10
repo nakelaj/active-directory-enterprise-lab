@@ -302,7 +302,7 @@ nslookup nakelatech.local
 4. Verified Domain Controller discovery:
 
 ```powershell
-nltest /dsgetdc:nakelatech.local
+nltest /sc_query:nakelatech.local
 ```
 
 5. Joined WS01 to the `nakelatech.local` domain
