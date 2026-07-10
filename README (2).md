@@ -303,6 +303,7 @@ nslookup nakelatech.local
 
 ```powershell
 nltest /sc_query:nakelatech.local
+nltest /dsgetdc:nakelatech.local
 ```
 
 5. Joined WS01 to the `nakelatech.local` domain
