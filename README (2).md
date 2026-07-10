@@ -209,8 +209,8 @@ nakelatech.local
 
 **Goal:** Build a logical, scalable identity structure that mirrors a real business.
 
-🎬 | Phase 2 | Continuation of DC installation... | [▶ Watch on Loom](https://www.loom.com/share/070356146d4b49edb15960b7d9e26ca8) |
-| Phase 2 (pt.2) | Phase 2 (pt.2) - Creating AD users and assigning group access | [▶ Watch on Loom](https://www.loom.com/share/de4b191822534ea69cff925771b6d8f7) |
+🎬 [Watch Phase 2 – Continuation of DC Installation, Creating Users and Security Groups](https://www.loom.com/share/a374e904d7e04b0fb6cba868cd9df2b1) | 
+[Watch Phase 2 pt.2 – Creating AD Users and Assigning Group Access](https://www.loom.com/share/de4b191822534ea69cff925771b6d8f7)
 
 ### Steps Performed
 
